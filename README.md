@@ -1,2 +1,6 @@
 pair programming:Andry Gabriel
-					Mandresy ANDRIAMANDRAVANISAROTRA
+		Mandresy ANDRIAMANDRAVANISAROTRA
+		Antonie Samuel RAZAFIMANAMPY
+		Tamby RAKOTONIAINA
+		Stephano ANDRIANANTENAINA
+		Mamy RAHARINIAINA
